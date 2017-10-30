@@ -117,38 +117,38 @@ h3.feature-title {
 
 
 .f1, .maps-api {
-  background-image: url('./images/mapping.jpg');
+  background-image: url('../images/mapping.jpg');
 }
 .f2, .schema-mapping {
-  background-image: url('./images/schema.jpg');
+  background-image: url('../images/schema.jpg');
 }
 .f3, .instagram-api {
-  background-image: url('./images/instagram.jpg');
+  background-image: url('../images/instagram.jpg');
 }
 .f4, .spa-ui {
-  background-image: url('./images/ui.jpg');
+  background-image: url('../images/ui.jpg');
 }
 .f5, .data-caching {
-  background-image: url('./images/caching.jpg');
+  background-image: url('../images/caching.jpg');
 }
 .f6, .masonry-layout {
-  background-image: url('./images/masonrymultimedia.jpg');
+  background-image: url('../images/masonrymultimedia.jpg');
 }
 .f7, .furcaster-parallax {
-  background-image: url('./images/furcaster.jpg');
+  background-image: url('../images/furcaster.jpg');
 }
 .f8, .js-game {
-  background-image: url('./images/game.jpg');
+  background-image: url('../images/game.jpg');
 }
 .f9, .mysql-migration {
-  background-image: url('./images/sqlmigration.jpg');
+  background-image: url('../images/sqlmigration.jpg');
 }
 .f10, .mobile-hover {
-  background-image: url('./images/mobilehover.jpg');
+  background-image: url('../images/mobilehover.jpg');
 }
 .f11, .fluid-responsive {
-  background-image: url('./images/responsive.jpg');
+  background-image: url('../images/responsive.jpg');
 }
 .f12, .playful-animation {
-  background-image: url('./images/animation.jpg');
+  background-image: url('../images/animation.jpg');
 }

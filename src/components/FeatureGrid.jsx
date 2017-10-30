@@ -3,11 +3,7 @@ import Feature from "./Feature";
 import "./Feature.css";
 
 class FeatureGrid extends React.Component {
-
-  buildGrid() {
-    return <Feature />;
-  }
-
+  
   render() {
     const features = [];
     let i = 0;
