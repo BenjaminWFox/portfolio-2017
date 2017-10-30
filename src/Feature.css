@@ -1,0 +1,147 @@
+a, button {
+  color: #abdbff;
+}
+
+a:hover, button:hover {
+  text-decoration: none;
+  color: #d3ecff;
+}
+
+button {
+  appearance: none;
+  -webkit-appearance: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+  margin: 0;
+  padding: 0;
+}
+
+button:focus  {
+  text-decoration: none;
+  border: none;
+  outline: none;
+}
+
+.feature-container {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 4px;
+}
+
+.feature {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 4px;
+  width: 22%;
+  max-width: 1024px;
+  flex: 1 0 auto;
+  height: auto;
+  position: relative;
+}
+.feature:before {
+    content:'';
+    float:left;
+    padding-top:100%;
+}
+
+.feature-cover {
+  background-color: rgba(0, 0, 0, .8);
+  bottom: 0;
+  color: #fff;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  text-align: left;
+  width: 100%;
+}
+
+.feature-details {
+  position: absolute;
+  bottom: 10px;
+}
+
+h3.feature-title {
+  background-color: rgba(255, 255, 255, .1);
+  font-size: 1.25rem;
+  font-weight: 300;
+  padding: .3rem;
+  position: relative;
+  transition: margin-top .5s;
+}
+
+.feature-caption {
+  display: block;
+  font-size: .75rem;
+  font-weight: 400;
+  left: 50%;
+  margin: .5rem 0 0;
+  padding: 0 .6rem;
+  position: relative;
+  opacity: 1;
+  transform: translateX(-50%);
+  transition: opacity .5s;
+}
+
+@media screen and (max-width: 1400px) {
+  .feature {
+    width: 30%;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .feature {
+    width: 45%;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .feature {
+    width: 90%;
+  }
+}
+  
+@media screen and (max-width: 500px) {
+  .feature-caption {
+    padding: 0 1rem;
+  }
+}
+
+
+.f1, .maps-api {
+  background-image: url('./images/mapping.jpg');
+}
+.f2, .schema-mapping {
+  background-image: url('./images/schema.jpg');
+}
+.f3, .instagram-api {
+  background-image: url('./images/instagram.jpg');
+}
+.f4, .spa-ui {
+  background-image: url('./images/ui.jpg');
+}
+.f5, .data-caching {
+  background-image: url('./images/caching.jpg');
+}
+.f6, .masonry-layout {
+  background-image: url('./images/masonrymultimedia.jpg');
+}
+.f7, .furcaster-parallax {
+  background-image: url('./images/furcaster.jpg');
+}
+.f8, .js-game {
+  background-image: url('./images/game.jpg');
+}
+.f9, .mysql-migration {
+  background-image: url('./images/sqlmigration.jpg');
+}
+.f10, .mobile-hover {
+  background-image: url('./images/mobilehover.jpg');
+}
+.f11, .fluid-responsive {
+  background-image: url('./images/responsive.jpg');
+}
+.f12, .playful-animation {
+  background-image: url('./images/animation.jpg');
+}

@@ -1,0 +1,88 @@
+{
+    "array": [
+        {
+             "class": "maps-api",
+             "title": "Google Maps API Data Visualization",
+             "story": "Address data combined with the Google Maps API allows the user to select populations based on geometric or custom shapes and various regional markers like county & state boundaries.",
+             "stack": "JavaScript, AngularJS, MongoDB, Google Maps API, HTML5, CSS3.",
+             "liveUrl": ""
+        },
+        {
+             "class": "mobile-hover",
+             "title": "Responsive, Easy-Update Feature-Grid",
+             "story": "A custom WordPress admin interface allows this homepage features grid to be easily arranged and updated. The grid is fully responsive, and replaces hover effects with scroll effects on mobile.",
+             "stack": "WordPress, MySQL, CSS3, HTML5, JavaScript.",
+             "liveUrl": "https://smashingideas.com/"
+        },
+        {
+             "class": "js-game",
+             "title": "MVC & Canvas API JavaScript Game",
+             "story": "A game prototype designed for the Surface and other large touch-screen devices. Dual touch inputs control each side of the bar, and physics are mocked using calculations based on bar angle and ball momentum and angle. No libraries, frameworks, or plugins used.",
+             "stack": "JavaScript, Canvas API.",
+             "liveUrl": "http://benfox.info/lab/zeeks/"
+        },
+        {
+             "class": "masonry-layout",
+             "title": "Custom Masonry Layout & Card Design",
+             "story": "A custom, responsive masonry implementation enabled progressive loading and several specific one-off use cases to be accomodated by the component.",
+             "stack": "JavaScript, HTML5, CSS, DjangoCMS, Django, Python.",
+             "liveUrl": "http://www.alleninstitute.org/news-press/news/"
+        },
+        {
+             "class": "instagram-api",
+             "title": "oAuth w/ AngularJS & Instagram API",
+             "story": "Users are able to authorize the application on Instagram in order to select a custom background image, which is saved in their account.",
+             "stack": "JavaScript, AngularJS, MongoDB, Google Maps API, HTML5, CSS3.",
+             "liveUrl": ""
+        },
+        {
+             "class": "mysql-migration",
+             "title": "MySQL Migration to WordPress & Foundation",
+             "story": "Organizational processes preserved by migrating user accounts via stored procedure and encapsulating legacy functions in WordPress plugins with updated db security. Foundation gave the site an easy to style boilerplate (pictured).",
+             "stack": "Legacy PHP/MySQL, WordPress, Foundation, PHP, PDO.",
+             "liveUrl": ""
+        },
+        {
+             "class": "spa-ui",
+             "title": "SPA UI w/ WYSIWYG Customization",
+             "story": "As an admin, all labels on header metrics and body icons are editable in-line. As a user, header metrics are easily rearranged, with a number of additional options available in a dropdown. Body icons can be 'stickied' as favorites.",
+             "stack": "JavaScript, AngularJS, MongoDB, Google Maps API, HTML5, CSS3.",
+             "liveUrl": ""
+        },
+        {
+            "class": "data-caching",
+            "title": "Client-side Data Caching",
+            "story": "API calls made by the client are cached to facilitate fast single-session browsing per specific use case.",
+            "stack": "JavaScript, HTML5, CSS, DjangoCMS, Django, Python.",
+            "liveUrl": "http://www.alleninstitute.org/what-we-do/brain-science/research/scientific-publications/"
+        },
+        {
+            "class": "maps-api",
+            "title": "User Action History w/ AngularJS",
+            "story": "Within the filter, each user interaction is tracked to allow a return to any previous state. Actions can be arbitrarily removed from any point in the history list.",
+            "stack": "JavaScript, AngularJS, MongoDB, Google Maps API, HTML5, CSS3.",
+            "liveUrl": ""
+        },
+        {
+             "class": "furcaster-parallax",
+             "title": "Custom Parallax & Responsive Design",
+             "story": "A custom parallax implementation creates a dynamic, playful environment to showcase this apps debut with a responsive design that degrades gracefully on devices that prohibit processing while scrolling.",
+             "stack": "JavaScript, jQuery, CSS3, HTML5.",
+             "liveUrl": "http://furcaster.com/"
+        },
+        {
+             "class": "playful-animation",
+             "title": "Playful Animations w/ AngularJS & CSS",
+             "story": "A lightweight implementation of AngularJS allows simple state management to trigger playful CSS animations based on user interaction.",
+             "stack": "CSS3 Animations, AngularJS.",
+             "liveUrl": ""
+        },
+        {
+             "class": "schema-mapping",
+             "title": "Schema WYSIWYG Mapping w/ AngularJS",
+             "story": "As part of onboarding, users map their data in a way that the application is able to understand. This interface allows easy drag & drop relationship mapping between tables.",
+             "stack": "JavaScript, AngularJS, MongoDB, Google Maps API, HTML5, CSS3.",
+             "liveUrl": ""
+        }
+    ]
+}
