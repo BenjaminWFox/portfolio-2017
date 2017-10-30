@@ -1,7 +1,7 @@
 /*******************************
  *
  *
- * - Contains global linting rules for everything in the dev/design folder tree
+ * - Linting rules for BF Portfolio
  *
  *
  *******************************/
@@ -42,5 +42,6 @@ module.exports = {
     },
     "plugins": [
         "react"
-    ]
+    ],
+    "parser": "babel-eslint"
 }

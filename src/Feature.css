@@ -54,7 +54,14 @@ button:focus  {
   left: 0;
   position: absolute;
   text-align: left;
+  transition: opacity 1s, visibility 1s;
   width: 100%;
+}
+
+.hidden-cover {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
 }
 
 .feature-details {
