@@ -7,5 +7,5 @@ deploy:
     secure: bf2507a0-7b67-465e-a153-4e6850cc9ef3
   app: bfp-portfolio
   on:
-    repo: benjaminwfox/portfolio-2017
+    repo: BenjaminWFox/portfolio-2017
     branch: staging
