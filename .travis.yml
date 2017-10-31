@@ -2,7 +2,10 @@ language: node_js
 node_js:
   - "6"
 deploy:
-  provider: heroku
+- provider: heroku
   api_key:
-    secure: "bf2507a0-7b67-465e-a153-4e6850cc9ef3"
-  app: bfp-staging
+    secure: bf2507a0-7b67-465e-a153-4e6850cc9ef3
+  app: bfp-portfolio
+  on:
+    repo: benjaminwfox/portfolio-2017
+    branch: staging
