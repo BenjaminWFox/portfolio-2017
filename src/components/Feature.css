@@ -33,10 +33,10 @@ button:focus  {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
-  margin: 4px;
+  margin: 4px auto;
   width: 22%;
   max-width: 1024px;
-  flex: 1 0 auto;
+  flex: 0 0 auto;
   height: auto;
   position: relative;
 }
@@ -93,19 +93,19 @@ h3.feature-title {
 
 @media screen and (max-width: 1400px) {
   .feature {
-    width: 30%;
+    width: 32%;
   }
 }
 
 @media screen and (max-width: 1024px) {
   .feature {
-    width: 45%;
+    width: 49%;
   }
 }
 
 @media screen and (max-width: 650px) {
   .feature {
-    width: 90%;
+    width: 98%;
   }
 }
   
@@ -150,5 +150,8 @@ h3.feature-title {
   background-image: url('../images/responsive.jpg');
 }
 .f12, .playful-animation {
+  background-image: url('../images/animation.jpg');
+}
+.employee-finder {
   background-image: url('../images/animation.jpg');
 }

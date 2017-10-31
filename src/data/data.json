@@ -83,6 +83,13 @@
              "story": "As part of onboarding, users map their data in a way that the application is able to understand. This interface allows easy drag & drop relationship mapping between tables.",
              "stack": "JavaScript, AngularJS, MongoDB, Google Maps API, HTML5, CSS3.",
              "liveUrl": ""
+        },
+        {
+             "class": "employee-finder",
+             "title": "",
+             "story": "",
+             "stack": "",
+             "liveUrl": ""
         }
     ]
 }
