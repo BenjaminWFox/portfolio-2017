@@ -9,3 +9,4 @@ deploy:
   on:
     repo: BenjaminWFox/portfolio-2017
     branch: staging
+  skip_cleanup: true
