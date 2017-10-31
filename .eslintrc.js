@@ -35,7 +35,8 @@ module.exports = {
         "es6": true,
         "node": true,
         "browser": true,
-        "mocha": true
+        "mocha": true,
+        "jest": true
     },
     "globals": {
         "chai": true
