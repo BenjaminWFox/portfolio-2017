@@ -1,4 +1,3 @@
 ## Simple React Portfolio
 
-* ToDo: Add mocha/chai for tests
-* ToDo: Write simple tests
+* todo: integrate with travis ci & heroku
