@@ -1,6 +1,20 @@
 {
     "array": [
         {
+             "class": "rich-media",
+             "title": "Rich Media Unit Template Shell",
+             "story": "This rich meda creative was one of 18 shell versions. An advanced GIT branching setup allowed common elements to be updated quickly across all branches from a single master. All shells were templatized to serve varying content across regions, cuisines, and times-of-day.",
+             "stack": "JavaScript, HTML5, CSS3, GIT.",
+             "liveUrl": ""
+        },
+        {
+             "class": "internal-qa",
+             "title": "Internal QA Chrome Extension",
+             "story": "A React app built inside a Chrome Extension allowed tracking QA status, stored in MongoDB via a Node server app deployed to Google Cloud Platform.",
+             "stack": "JavaScript, React, Node.js, MongoDB, Chrome Extension API, Google Cloud Platform, HTML5, CSS3.",
+             "liveUrl": ""
+        },
+        {
              "class": "maps-api",
              "title": "Google Maps API Data Visualization",
              "story": "Address data combined with the Google Maps API allows the user to select populations based on geometric or custom shapes and various regional markers like county & state boundaries.",
@@ -12,7 +26,7 @@
              "title": "Responsive, Easy-Update Feature-Grid",
              "story": "A custom WordPress admin interface allows this homepage features grid to be easily arranged and updated. The grid is fully responsive, and replaces hover effects with scroll effects on mobile.",
              "stack": "WordPress, MySQL, CSS3, HTML5, JavaScript.",
-             "liveUrl": "https://smashingideas.com/"
+             "liveUrl": ""
         },
         {
              "class": "js-game",
@@ -68,7 +82,7 @@
              "title": "Custom Parallax & Responsive Design",
              "story": "A custom parallax implementation creates a dynamic, playful environment to showcase this apps debut with a responsive design that degrades gracefully on devices that prohibit processing while scrolling.",
              "stack": "JavaScript, jQuery, CSS3, HTML5.",
-             "liveUrl": "http://furcaster.com/"
+             "liveUrl": ""
         },
         {
              "class": "playful-animation",
@@ -86,9 +100,16 @@
         },
         {
              "class": "employee-finder",
-             "title": "",
-             "story": "",
-             "stack": "",
+             "title": "SharePoint Data Aggregation & Filtering",
+             "story": "A custom SharePoint web part leveraging SharePoint web services to aggregate and join data on the fly to build a filterable directory of teams, managers, and job titles.",
+             "stack": "SharePoint, C#, XHTML",
+             "liveUrl": ""
+        },
+        {
+             "class": "ethics-bullseye",
+             "title": "Flash Game Design & Development",
+             "story": "A game designed to give students an introductory understanding of ethics, ethical frameworks, and the difficulties that arise when attempting to apply them in practice.",
+             "stack": "Flash, ActionScript",
              "liveUrl": ""
         }
     ]
