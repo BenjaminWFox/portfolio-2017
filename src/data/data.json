@@ -2,7 +2,7 @@
     "array": [
         {
              "class": "maps-api",
-             "title": "Google Maps API Data Visualization",
+             "title": "Google Maps API Data Visualizations",
              "story": "Address data combined with the Google Maps API allows the user to select populations based on geometric or custom shapes and various regional markers like county & state boundaries.",
              "stack": "JavaScript, AngularJS, MongoDB, Google Maps API, HTML5, CSS3.",
              "liveUrl": ""
