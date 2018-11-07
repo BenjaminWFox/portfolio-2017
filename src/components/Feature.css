@@ -33,10 +33,10 @@ button:focus  {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
-  margin: 4px;
-  width: 22%;
+  margin: 4px auto;
+  width: 24.5%;
   max-width: 1024px;
-  flex: 1 0 auto;
+  flex: 0 0 auto;
   height: auto;
   position: relative;
 }
@@ -67,6 +67,7 @@ button:focus  {
 .feature-details {
   position: absolute;
   bottom: 10px;
+  width: 100%;
 }
 
 h3.feature-title {
@@ -93,22 +94,22 @@ h3.feature-title {
 
 @media screen and (max-width: 1400px) {
   .feature {
-    width: 30%;
+    width: 32%;
   }
 }
 
 @media screen and (max-width: 1024px) {
   .feature {
-    width: 45%;
+    width: 49%;
   }
 }
 
 @media screen and (max-width: 650px) {
   .feature {
-    width: 90%;
+    width: 98%;
   }
 }
-  
+
 @media screen and (max-width: 500px) {
   .feature-caption {
     padding: 0 1rem;
@@ -116,6 +117,12 @@ h3.feature-title {
 }
 
 
+.rich-media {
+  background-image: url('../images/maps_dinner.gif');
+}
+.internal-qa {
+  background-image: url('../images/qa_tool.jpg');
+}
 .f1, .maps-api {
   background-image: url('../images/mapping.jpg');
 }
@@ -132,7 +139,7 @@ h3.feature-title {
   background-image: url('../images/caching.jpg');
 }
 .f6, .masonry-layout {
-  background-image: url('../images/masonrymultimedia.jpg');
+  background-image: url('../images/masonry_multimedia.jpg');
 }
 .f7, .furcaster-parallax {
   background-image: url('../images/furcaster.jpg');
@@ -141,14 +148,20 @@ h3.feature-title {
   background-image: url('../images/game.jpg');
 }
 .f9, .mysql-migration {
-  background-image: url('../images/sqlmigration.jpg');
+  background-image: url('../images/sql_migration.jpg');
 }
 .f10, .mobile-hover {
-  background-image: url('../images/mobilehover.jpg');
+  background-image: url('../images/mobile_hover.jpg');
 }
 .f11, .fluid-responsive {
   background-image: url('../images/responsive.jpg');
 }
 .f12, .playful-animation {
   background-image: url('../images/animation.jpg');
+}
+.employee-finder {
+  background-image: url('../images/employee_finder.jpg');
+}
+.ethics-bullseye {
+  background-image: url('../images/ethics_bullseye.jpg');
 }
