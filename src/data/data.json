@@ -2,7 +2,7 @@
     "array": [
         {
              "class": "rich-media",
-             "title": "Rich Media Unit Shell",
+             "title": "Rich Media Unit Template Shell",
              "story": "This rich meda creative was one of 18 shell versions. An advanced GIT branching setup allowed common elements to be updated quickly across all branches from a single master. All shells were templatized to serve varying content across regions, cuisines, and times-of-day.",
              "stack": "JavaScript, HTML5, CSS3, GIT.",
              "liveUrl": ""
