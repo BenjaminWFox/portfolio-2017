@@ -5,8 +5,7 @@
   "dependencies": {
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
-    "react-scripts": "1.0.14",
-    "eslint-plugin-react": "^7.4.0"
+    "react-scripts": "1.0.14"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -16,5 +15,6 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
+    "eslint-plugin-react": "^7.4.0"
   }
 }
